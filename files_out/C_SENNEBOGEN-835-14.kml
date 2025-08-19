@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <Style id="5">
+                <LineStyle id="6">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="9">
+                <LineStyle id="10">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="13">
+                <LineStyle id="14">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="17">
+                <LineStyle id="18">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-06 08:00</name>
+            <Placemark id="4">
+                <name>Rota 08:39</name>
+                <styleUrl>#5</styleUrl>
+                <LineString id="3">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.94152,45.148395,0.0 9.94152,45.148395,0.0 9.94152,45.148395,0.0 9.9415333,45.14839,0.0 9.941535,45.1483866,0.0 9.9415583,45.14836,0.0 9.94156,45.1483583,0.0 9.9415666,45.1483516,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="8">
+                <name>Rota 08:40</name>
+                <styleUrl>#9</styleUrl>
+                <LineString id="7">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="12">
+                <name>Rota 08:41</name>
+                <styleUrl>#13</styleUrl>
+                <LineString id="11">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.9415666,45.1483516,0.0 9.941575,45.1483433,0.0 9.941575,45.1483433,0.0 9.941575,45.1483433,0.0 9.941575,45.1483433,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="16">
+                <name>Rota 08:42</name>
+                <styleUrl>#17</styleUrl>
+                <LineString id="15">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9415783,45.1483466,0.0 9.9415783,45.1483466,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="19">
+            <Style id="22">
+                <LineStyle id="23">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="26">
+                <LineStyle id="27">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="30">
+                <LineStyle id="31">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-06 12:00</name>
+            <Placemark id="21">
+                <name>Rota 12:13</name>
+                <styleUrl>#22</styleUrl>
+                <LineString id="20">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9401966,45.1475633,0.0 9.9402033,45.1475616,0.0 9.94021,45.14756,0.0 9.940225,45.147595,0.0 9.9402383,45.14763,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="25">
+                <name>Rota 12:14</name>
+                <styleUrl>#26</styleUrl>
+                <LineString id="24">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9402433,45.1476466,0.0 9.9402466,45.1476466,0.0 9.940245,45.14765,0.0 9.940245,45.14765,0.0 9.940245,45.14765,0.0 9.940245,45.14765,0.0 9.940245,45.14765,0.0 9.940245,45.14765,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="29">
+                <name>Rota 12:15</name>
+                <styleUrl>#30</styleUrl>
+                <LineString id="28">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.940245,45.14765,0.0 9.940245,45.14765,0.0 9.9403133,45.1476616,0.0 9.9403133,45.1476616,0.0 9.9403133,45.1476616,0.0 9.9403133,45.1476616,0.0 9.9403133,45.1476616,0.0 9.9403133,45.1476616,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="32">
+            <Style id="35">
+                <LineStyle id="36">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="39">
+                <LineStyle id="40">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-06 13:00</name>
+            <Placemark id="34">
+                <name>Rota 13:47</name>
+                <styleUrl>#35</styleUrl>
+                <LineString id="33">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9403966,45.145655,0.0 9.9403966,45.145655,0.0 9.9403866,45.1456733,0.0 9.940385,45.145675,0.0 9.9403783,45.1457183,0.0 9.94038,45.1457133,0.0 9.9403683,45.145755,0.0 9.9403666,45.145755,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="38">
+                <name>Rota 13:48</name>
+                <styleUrl>#39</styleUrl>
+                <LineString id="37">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9403866,45.1457266,0.0 9.9403883,45.145725,0.0 9.9403783,45.1457333,0.0 9.9403783,45.1457333,0.0 9.9403733,45.1457466,0.0 9.9403733,45.145745,0.0 9.940375,45.1457233,0.0 9.940375,45.1457233,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="41">
+            <Style id="44">
+                <LineStyle id="45">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="48">
+                <LineStyle id="49">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-06 17:00</name>
+            <Placemark id="43">
+                <name>Rota 17:33</name>
+                <styleUrl>#44</styleUrl>
+                <LineString id="42">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9390233,45.1457466,0.0 9.9390233,45.1457466,0.0 9.9390466,45.14573,0.0 9.939055,45.1457283,0.0 9.9391016,45.1457433,0.0 9.9391016,45.1457466,0.0 9.939095,45.1457566,0.0 9.939095,45.1457566,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="47">
+                <name>Rota 17:34</name>
+                <styleUrl>#48</styleUrl>
+                <LineString id="46">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0 9.93905,45.1457683,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="50">
+            <Style id="53">
+                <LineStyle id="54">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="57">
+                <LineStyle id="58">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="61">
+                <LineStyle id="62">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-06 21:00</name>
+            <Placemark id="52">
+                <name>Rota 21:43</name>
+                <styleUrl>#53</styleUrl>
+                <LineString id="51">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9383,45.1452183,0.0 9.9383,45.1452183,0.0 9.9383,45.1452183,0.0 9.9383,45.1452183,0.0 9.938255,45.1452083,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="56">
+                <name>Rota 21:44</name>
+                <styleUrl>#57</styleUrl>
+                <LineString id="55">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.938255,45.1452083,0.0 9.938255,45.1452083,0.0 9.938255,45.1452083,0.0 9.938255,45.1452083,0.0 9.938255,45.1452083,0.0 9.938255,45.1452083,0.0 9.9382466,45.1451983,0.0 9.9382466,45.1451983,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="60">
+                <name>Rota 21:45</name>
+                <styleUrl>#61</styleUrl>
+                <LineString id="59">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9382466,45.1451983,0.0 9.9382466,45.1451983,0.0 9.93825,45.1451816,0.0 9.93825,45.1451783,0.0 9.9382483,45.145175,0.0 9.9382483,45.145175,0.0 9.93824,45.14517,0.0 9.93824,45.14517,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="63">
+            <Style id="66">
+                <LineStyle id="67">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 05:00</name>
+            <Placemark id="65">
+                <name>Rota 05:48</name>
+                <styleUrl>#66</styleUrl>
+                <LineString id="64">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9400116,45.1452583,0.0 9.94001,45.1452483,0.0 9.940005,45.14525,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="68">
+            <Style id="71">
+                <LineStyle id="72">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="75">
+                <LineStyle id="76">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="79">
+                <LineStyle id="80">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="83">
+                <LineStyle id="84">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="87">
+                <LineStyle id="88">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="91">
+                <LineStyle id="92">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 08:00</name>
+            <Placemark id="70">
+                <name>Rota 08:21</name>
+                <styleUrl>#71</styleUrl>
+                <LineString id="69">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="74">
+                <name>Rota 08:22</name>
+                <styleUrl>#75</styleUrl>
+                <LineString id="73">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="78">
+                <name>Rota 08:23</name>
+                <styleUrl>#79</styleUrl>
+                <LineString id="77">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939745,45.14545,0.0 9.939795,45.1454416,0.0 9.9397933,45.14544,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="82">
+                <name>Rota 08:47</name>
+                <styleUrl>#83</styleUrl>
+                <LineString id="81">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9397716,45.1454116,0.0 9.9397733,45.14541,0.0 9.9397733,45.14541,0.0 9.939815,45.14542,0.0 9.939815,45.14542,0.0 9.939815,45.14542,0.0 9.939815,45.14542,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="86">
+                <name>Rota 08:48</name>
+                <styleUrl>#87</styleUrl>
+                <LineString id="85">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939815,45.14542,0.0 9.939815,45.14542,0.0 9.9398333,45.14543,0.0 9.9398333,45.14543,0.0 9.9398216,45.145415,0.0 9.9398216,45.145415,0.0 9.939795,45.1454083,0.0 9.9397983,45.1454116,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="90">
+                <name>Rota 08:49</name>
+                <styleUrl>#91</styleUrl>
+                <LineString id="89">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9398016,45.1454116,0.0 9.9398016,45.1454116,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="93">
+            <Style id="96">
+                <LineStyle id="97">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 09:00</name>
+            <Placemark id="95">
+                <name>Rota 09:55</name>
+                <styleUrl>#96</styleUrl>
+                <LineString id="94">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9396333,45.145465,0.0 9.9396333,45.145465,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="98">
+            <Style id="101">
+                <LineStyle id="102">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="105">
+                <LineStyle id="106">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="109">
+                <LineStyle id="110">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="113">
+                <LineStyle id="114">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 10:00</name>
+            <Placemark id="100">
+                <name>Rota 10:37</name>
+                <styleUrl>#101</styleUrl>
+                <LineString id="99">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9395483,45.1455716,0.0 9.9395466,45.1455633,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="104">
+                <name>Rota 10:49</name>
+                <styleUrl>#105</styleUrl>
+                <LineString id="103">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9398233,45.145175,0.0 9.939895,45.145195,0.0 9.9399316,45.1452016,0.0 9.939965,45.145215,0.0 9.939965,45.145215,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="108">
+                <name>Rota 10:50</name>
+                <styleUrl>#109</styleUrl>
+                <LineString id="107">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939585,45.1450816,0.0 9.939585,45.1450866,0.0 9.9395283,45.1451183,0.0 9.93952,45.145115,0.0 9.9395616,45.1450933,0.0 9.939595,45.14511,0.0 9.9396833,45.1451316,0.0 9.9396883,45.1451333,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="112">
+                <name>Rota 10:51</name>
+                <styleUrl>#113</styleUrl>
+                <LineString id="111">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9396766,45.1451166,0.0 9.93968,45.1451133,0.0 9.9396283,45.1450866,0.0 9.93963,45.1450866,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="115">
+            <Style id="118">
+                <LineStyle id="119">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="122">
+                <LineStyle id="123">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 13:00</name>
+            <Placemark id="117">
+                <name>Rota 13:36</name>
+                <styleUrl>#118</styleUrl>
+                <LineString id="116">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9398783,45.145205,0.0 9.9398783,45.145205,0.0 9.93987,45.1451983,0.0 9.93987,45.1451983,0.0 9.9398516,45.1451966,0.0 9.9398516,45.1451966,0.0 9.93987,45.1451933,0.0 9.93987,45.1451933,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="121">
+                <name>Rota 13:37</name>
+                <styleUrl>#122</styleUrl>
+                <LineString id="120">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.93987,45.1451933,0.0 9.93987,45.1451933,0.0 9.9398866,45.1451966,0.0 9.9398866,45.1451966,0.0 9.93991,45.14522,0.0 9.9399083,45.1452216,0.0 9.93991,45.145225,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="124">
+            <Style id="127">
+                <LineStyle id="128">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="131">
+                <LineStyle id="132">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="135">
+                <LineStyle id="136">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="139">
+                <LineStyle id="140">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 17:00</name>
+            <Placemark id="126">
+                <name>Rota 17:06</name>
+                <styleUrl>#127</styleUrl>
+                <LineString id="125">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939875,45.1453633,0.0 9.939875,45.1453633,0.0 9.9398866,45.14535,0.0 9.939885,45.1453483,0.0 9.9398733,45.145325,0.0 9.93987,45.1453233,0.0 9.939865,45.1453033,0.0 9.939865,45.1453033,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="130">
+                <name>Rota 17:07</name>
+                <styleUrl>#131</styleUrl>
+                <LineString id="129">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9398666,45.1452816,0.0 9.9398666,45.1452816,0.0 9.9398666,45.1452816,0.0 9.9398666,45.1452816,0.0 9.93994,45.145275,0.0 9.93994,45.1452766,0.0 9.9399383,45.14528,0.0 9.9399383,45.14528,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="134">
+                <name>Rota 17:19</name>
+                <styleUrl>#135</styleUrl>
+                <LineString id="133">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9390866,45.145835,0.0 9.9390866,45.145835,0.0 9.9390883,45.1458,0.0 9.9390883,45.1458,0.0 9.9390783,45.145725,0.0 9.9390783,45.145725,0.0 9.9391033,45.1456816,0.0 9.9391033,45.1456816,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="138">
+                <name>Rota 17:20</name>
+                <styleUrl>#139</styleUrl>
+                <LineString id="137">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9391166,45.1456516,0.0 9.9391166,45.1456516,0.0 9.9391383,45.1456083,0.0 9.9391466,45.1456066,0.0 9.9392016,45.1456083,0.0 9.9392,45.145605,0.0 9.93919,45.1456016,0.0 9.93919,45.1456016,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="141">
+            <Style id="144">
+                <LineStyle id="145">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="148">
+                <LineStyle id="149">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="152">
+                <LineStyle id="153">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 19:00</name>
+            <Placemark id="143">
+                <name>Rota 19:06</name>
+                <styleUrl>#144</styleUrl>
+                <LineString id="142">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.938815,45.14565,0.0 9.938815,45.14565,0.0 9.938815,45.14565,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="147">
+                <name>Rota 19:07</name>
+                <styleUrl>#148</styleUrl>
+                <LineString id="146">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.938855,45.1456533,0.0 9.938855,45.1456533,0.0 9.9388366,45.1456116,0.0 9.9388383,45.1456066,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="151">
+                <name>Rota 19:08</name>
+                <styleUrl>#152</styleUrl>
+                <LineString id="150">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0 9.9388666,45.145565,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="154">
+            <Style id="157">
+                <LineStyle id="158">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="161">
+                <LineStyle id="162">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-07 21:00</name>
+            <Placemark id="156">
+                <name>Rota 21:38</name>
+                <styleUrl>#157</styleUrl>
+                <LineString id="155">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9404416,45.1456766,0.0 9.9404616,45.1456616,0.0 9.9404583,45.1456366,0.0 9.9404583,45.1456366,0.0 9.9404583,45.1456366,0.0 9.9404583,45.1456366,0.0 9.9404433,45.14562,0.0 9.9404433,45.1456183,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="160">
+                <name>Rota 21:39</name>
+                <styleUrl>#161</styleUrl>
+                <LineString id="159">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9404433,45.14562,0.0 9.9404433,45.14562,0.0 9.94045,45.14562,0.0 9.94045,45.14562,0.0 9.940445,45.1456066,0.0 9.940445,45.1456066,0.0 9.9404433,45.14561,0.0 9.9404466,45.1456083,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="163">
+            <Style id="166">
+                <LineStyle id="167">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="170">
+                <LineStyle id="171">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="174">
+                <LineStyle id="175">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="178">
+                <LineStyle id="179">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="182">
+                <LineStyle id="183">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-08 03:00</name>
+            <Placemark id="165">
+                <name>Rota 03:47</name>
+                <styleUrl>#166</styleUrl>
+                <LineString id="164">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="169">
+                <name>Rota 03:48</name>
+                <styleUrl>#170</styleUrl>
+                <LineString id="168">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94033,45.1476633,0.0 9.94027,45.14769,0.0 9.94027,45.14769,0.0 9.940275,45.1476816,0.0 9.940275,45.1476816,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="173">
+                <name>Rota 03:50</name>
+                <styleUrl>#174</styleUrl>
+                <LineString id="172">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="177">
+                <name>Rota 03:51</name>
+                <styleUrl>#178</styleUrl>
+                <LineString id="176">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0 9.9402633,45.14771,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="181">
+                <name>Rota 03:52</name>
+                <styleUrl>#182</styleUrl>
+                <LineString id="180">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9402633,45.14771,0.0 9.9402633,45.14771,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="184">
+            <Style id="187">
+                <LineStyle id="188">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="191">
+                <LineStyle id="192">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="195">
+                <LineStyle id="196">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-08 04:00</name>
+            <Placemark id="186">
+                <name>Rota 04:31</name>
+                <styleUrl>#187</styleUrl>
+                <LineString id="185">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="190">
+                <name>Rota 04:32</name>
+                <styleUrl>#191</styleUrl>
+                <LineString id="189">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0 9.9399083,45.1475116,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="194">
+                <name>Rota 04:33</name>
+                <styleUrl>#195</styleUrl>
+                <LineString id="193">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9399,45.147535,0.0 9.9399,45.147535,0.0 9.9399,45.147535,0.0 9.9399,45.147535,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="197">
+            <Style id="200">
+                <LineStyle id="201">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="204">
+                <LineStyle id="205">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="208">
+                <LineStyle id="209">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-08 05:00</name>
+            <Placemark id="199">
+                <name>Rota 05:35</name>
+                <styleUrl>#200</styleUrl>
+                <LineString id="198">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9403833,45.1456316,0.0 9.9403816,45.145615,0.0 9.9403816,45.14563,0.0 9.940355,45.1456833,0.0 9.940355,45.145695,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="203">
+                <name>Rota 05:36</name>
+                <styleUrl>#204</styleUrl>
+                <LineString id="202">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9403633,45.145695,0.0 9.9403683,45.1456933,0.0 9.9403716,45.14569,0.0 9.9403716,45.14569,0.0 9.9403716,45.14569,0.0 9.9403716,45.14569,0.0 9.9403766,45.1456833,0.0 9.94038,45.1456833,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="207">
+                <name>Rota 05:37</name>
+                <styleUrl>#208</styleUrl>
+                <LineString id="206">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9403816,45.1456833,0.0 9.9403816,45.1456833,0.0 9.9403816,45.1456833,0.0 9.9403816,45.1456833,0.0 9.9403816,45.1456833,0.0 9.9403816,45.1456833,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="210">
+            <Style id="213">
+                <LineStyle id="214">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="217">
+                <LineStyle id="218">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="221">
+                <LineStyle id="222">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-08 08:00</name>
+            <Placemark id="212">
+                <name>Rota 08:27</name>
+                <styleUrl>#213</styleUrl>
+                <LineString id="211">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.939335,45.1456633,0.0 9.9392783,45.1456016,0.0 9.939275,45.1455983,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="216">
+                <name>Rota 08:28</name>
+                <styleUrl>#217</styleUrl>
+                <LineString id="215">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9392666,45.1455866,0.0 9.9392666,45.1455866,0.0 9.9392583,45.14559,0.0 9.9392583,45.14559,0.0 9.9392416,45.1455833,0.0 9.9392416,45.1455833,0.0 9.9392416,45.1455833,0.0 9.9392416,45.1455833,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="220">
+                <name>Rota 08:29</name>
+                <styleUrl>#221</styleUrl>
+                <LineString id="219">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.93928,45.14555,0.0 9.9392766,45.1455483,0.0 9.939275,45.14555,0.0 9.939275,45.14555,0.0 9.9392833,45.1455533,0.0 9.9392833,45.1455533,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+        <Folder id="223">
+            <Style id="226">
+                <LineStyle id="227">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="230">
+                <LineStyle id="231">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <Style id="234">
+                <LineStyle id="235">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <width>3</width>
+                </LineStyle>
+            </Style>
+            <name>2025-08-08 10:00</name>
+            <Placemark id="225">
+                <name>Rota 10:43</name>
+                <styleUrl>#226</styleUrl>
+                <LineString id="224">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9392183,45.1455733,0.0 9.9392183,45.1455733,0.0 9.9392183,45.1455733,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="229">
+                <name>Rota 10:44</name>
+                <styleUrl>#230</styleUrl>
+                <LineString id="228">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9392283,45.145585,0.0 9.939225,45.1455833,0.0 9.939225,45.145585,0.0 9.939225,45.145585,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0</coordinates>
+                </LineString>
+            </Placemark>
+            <Placemark id="233">
+                <name>Rota 10:45</name>
+                <styleUrl>#234</styleUrl>
+                <LineString id="232">
+                    <altitudeMode>clampToGround</altitudeMode>
+                    <coordinates>9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0 9.9391933,45.1455883,0.0</coordinates>
+                </LineString>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
