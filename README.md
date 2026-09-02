@@ -85,6 +85,24 @@
     --> Ativar/desativar visualização por grupo
     --> Criar hierarquias com subpastas
 
+    sabino@LPT-SABINONETO:~/developer/gap/kml_export$ tree
+    .
+    ├── README.md
+    ├── __pycache__
+    │   ├── export_detail.cpython-312.pyc
+    │   ├── export_rota.cpython-312.pyc
+    │   └── main_detail.cpython-312.pyc
+    ├── exemplo_kml_estrutura.py
+    ├── export_detail.py
+    ├── export_rota.py
+    ├── export_rota_minut.py
+    ├── files_in
+    │   └── in.xlsx
+    ├── files_out
+    │   └── rota.kml
+    ├── kml_saida
+    └── run.py
+
 #### 💡 Exemplos de uso prático
 
 | Elemento KML    | Exemplo prático para seu caso                      |
@@ -97,3 +115,5 @@
 | `TimeStamp`     | Mostrar posição exata do veículo em cada segundo   |
 | `TimeSpan`      | Mostrar o trajeto entre 10:00 e 10:01, por exemplo |
 | `GroundOverlay` | Adicionar um mapa do canteiro ou imagem aérea      |
+
+##

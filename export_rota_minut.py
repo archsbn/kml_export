@@ -25,7 +25,8 @@ CAMINHO_SAIDA_KML = Path("files_out/rota.kml")
 
 # Estilo da linha
 LARGURA_LINHA = 3
-COR_LINHA = simplekml.Color.green
+#COR_LINHA = simplekml.Color.green
+COR_LINHA = simplekml.Color.red
 
 
 def normalizar_colunas(cols):
@@ -66,6 +67,50 @@ def mapear_colunas(df):
     return col_data, col_lat, col_lon
 
 
+def resumir_posicoes_duplicadas_por_minuto(df):
+    """
+    Para cada minuto, mostra exatamente:
+      - quantos pares GPS distintos existem (LAT, LON únicos)
+      - quantas ocorrências repetidas existem no total (posicoes iguais)
+
+    Exemplo:
+      par A aparece 4 vezes, par B aparece 2 vezes
+      -> pares GPS distintos = 2
+      -> posicoes iguais = 6
+    """
+    df = df.copy()
+    df["MINUTO"] = df["DATA"].dt.floor("min")
+
+    resumo = (
+        df.groupby(["MINUTO", "LAT", "LON"], dropna=False)
+        .size()
+        .reset_index(name="qtde")
+    )
+
+    pares_por_minuto = resumo.groupby("MINUTO").size().rename("pares_gps_distintos")
+    ocorrencias_repetidas = resumo[resumo["qtde"] > 1].groupby("MINUTO")["qtde"].sum().rename("posicoes_iguais")
+
+    agrupado = pares_por_minuto.to_frame().join(ocorrencias_repetidas, how="left")
+    agrupado["pares_gps_distintos"] = agrupado["pares_gps_distintos"].fillna(0).astype(int)
+    agrupado["posicoes_iguais"] = agrupado["posicoes_iguais"].fillna(0).astype(int)
+    agrupado = agrupado.reset_index().sort_values("MINUTO")
+
+    print("\nResumo por minuto: pares GPS distintos vs. ocorrências repetidas")
+    print(f"{'MINUTO':<20} {'PARES GPS':>12} {'POSICOES IGUAIS':>18}")
+    for _, r in agrupado.iterrows():
+        minuto = r["MINUTO"].strftime("%Y-%m-%d %H:%M")
+        print(
+            f"{minuto:<20} "
+            f"{int(r['pares_gps_distintos']):>12} "
+            f"{int(r['posicoes_iguais']):>18}"
+        )
+
+    total_pares = int(agrupado["pares_gps_distintos"].sum())
+    total_iguais = int(agrupado["posicoes_iguais"].sum())
+    print(f"\nTOTAL: {total_pares} pares GPS distintos | {total_iguais} posições iguais em todos os minutos.")
+    print("Obs.: 'pares GPS distintos' = número de combinações únicas de LAT+LON; 'posicoes iguais' = total de ocorrências repetidas dessas combinações.")
+
+
 def gerar_kml_pasta_hora_rotas_minuto(caminho_excel: Path, caminho_kml: Path):
     # Leitura
     df = pd.read_excel(caminho_excel)
@@ -90,8 +135,11 @@ def gerar_kml_pasta_hora_rotas_minuto(caminho_excel: Path, caminho_kml: Path):
     df = df.sort_values("DATA").reset_index(drop=True)
 
     # Chaves de agrupamento
-    df["HORA"] = df["DATA"].dt.floor("H")    # ex.: 2025-08-18 10:00:00
+    df["HORA"] = df["DATA"].dt.floor("h")    # ex.: 2025-08-18 10:00:00
     df["MINUTO"] = df["DATA"].dt.floor("min")  # ex.: 2025-08-18 10:23:00
+
+    # Resumo de coordenadas duplicadas por minuto
+    resumir_posicoes_duplicadas_por_minuto(df)
 
     # Cria KML
     kml = simplekml.Kml()

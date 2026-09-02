@@ -7,7 +7,7 @@ CAMINHO_KML = Path("files_out/rota.kml")
 
 
 ## Execute all date, 1h / 1m / 1 sec + route
-# export_detail();
+# export_detail()
 
 
 ## Execute all date, 1h / 1m / 1 sec + route
