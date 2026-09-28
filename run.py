@@ -1,14 +1,29 @@
-import export_rota
+import sys
 from pathlib import Path
 
-CAMINHO_EXCEL = Path("files_in/in.xlsx")
-CAMINHO_KML = Path("files_out/rota.kml")
+import export_rota
+
+PASTA_BASE = Path(sys.argv[0]).resolve().parent
+
+CAMINHO_EXCEL = PASTA_BASE / "files_in" / "in.xlsm"
+CAMINHO_KML = PASTA_BASE / "files_out" / "rota.kml"
 
 
+def main():
+    CAMINHO_KML.parent.mkdir(parents=True, exist_ok=True)
 
-## Execute all date, 1h / 1m / 1 sec + route
-# export_detail()
+    if not CAMINHO_EXCEL.exists():
+        print(f"File not found: {CAMINHO_EXCEL}")
+        return
+
+    # export_rota.export_detail()
+    export_rota.gerar_rota_kml(CAMINHO_EXCEL, CAMINHO_KML)
+    print(f"Rota exported in: {CAMINHO_KML}")
 
 
-## Execute all date, 1h / 1m / 1 sec + route
-export_rota.gerar_rota_kml(CAMINHO_EXCEL, CAMINHO_KML)
+if __name__ == "__main__":
+    try:
+        main()
+    except Exception as e:
+        print(f"Erro: {e}")
+    input("ENTER TO EXIT.")
